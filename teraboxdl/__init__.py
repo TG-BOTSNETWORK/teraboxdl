@@ -1,7 +1,7 @@
 from teraboxdl.downloader import TeraBoxDownloader
 
 __all__ = ["TeraBoxDownloader"]
-__version__ = "0.1"
+__version__ = "0.2"
 __license__ = "GNU General Public License v3.0"
 __author__ = "Santhosh"
 print("TeraBoxDL package has been imported successfully.")
