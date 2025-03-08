@@ -1,4 +1,5 @@
 from teraboxdl.downloader import TeraBoxDownloader
+from teraboxdl.exceptions import TeraBoxError, DownloadError, LinkNotFoundError
 
 __all__ = ["TeraBoxDownloader"]
 __version__ = "0.2"
